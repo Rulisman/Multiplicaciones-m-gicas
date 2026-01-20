@@ -1,0 +1,7 @@
+{
+  "name": "Super Multiplicaciones Mágicas",
+  "description": "Una divertida aplicación para que los niños repasen las tablas de multiplicar del 1 al 10 con un estilo de juego del ahorcado, música y confeti.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
